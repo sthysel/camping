@@ -1,0 +1,30 @@
+* satellite radio (or personal locator beacon) 
+* satellite communicator
+* main cell phone
+* a backup cell phone / wireless hotspot with a different provider
+* gps app with maps
+* flares 
+* high-intensity LED road lights that have constant + SOS flashing patterns
+* two high-intensity flashlights
+* green laser pen for alternative forms of signaling
+* plenty of food
+* potable water
+* basic medical supplies 
+** round of antibiotics
+* tire inflation/repair devices
+* multipurpose sharp knife
+* two long-lasting external batteries for your USB devices that can also jumpstart a car
+* basic set of tools
+** Screwdriver with various bits
+* socket wrench (ideally with an extension)
+* car jack
+* pliers
+* length of wire
+* length of rope
+* folding saw
+* aim-and-flame extension lighter with flexible shaft
+* stack of kindling (newspapers)
+* tire iron (add a breaker bar, probably)
+* map
+* compass
+* 2m ham radio
